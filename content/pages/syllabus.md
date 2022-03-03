@@ -193,7 +193,7 @@ The final group of classes is set up as a studio, focused on finding and telling
 
 The final project will integrate many of the skills and approaches we cover throughout the semester. I anticipate that one of the small projects you do in the technique modules will grow into your final project, but that doesn't have to be the case. The final project is NOT a sketch; you should be creating a real, functioning version of the idea you have in mind. The final module will consist mostly of in-class studio time to work and get feedback on your progress. This final project must gather, analyze, and synthesize various civic datasets into a data-driven presentation.
 
-See the {{< resource_link a7948c29-5d38-d3a1-af5d-d7583a5b812d "Final Project Requirements" >}} page for more details.
+See the {{% resource_link a7948c29-5d38-d3a1-af5d-d7583a5b812d "Final Project Requirements" %}} page for more details.
 
 
 {{< tdclose >}}

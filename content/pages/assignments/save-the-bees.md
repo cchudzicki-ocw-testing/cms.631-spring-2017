@@ -16,7 +16,7 @@ Save the Bees used an interactive map highlighting bee-dependent food crops and 
 
 By Almaha Almalki, Sean Soni, Jingxian Zhang, and anonymous student.
 
-{{< resource_link 8b62597f-c5d7-5389-5d83-7c6ab8c10be0 "Save the Bees presentation slides (PDF - 3.2MB)" >}}
+{{% resource_link 8b62597f-c5d7-5389-5d83-7c6ab8c10be0 "Save the Bees presentation slides (PDF - 3.2MB)" %}}
 
 Overview
 --------
