@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page describes an online quiz exploring commuting options in the
+  Boston area, viewed through the Hubway bikeshare service.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

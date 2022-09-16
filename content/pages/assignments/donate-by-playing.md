@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page describes the Donate by Playing board game created by students.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -24,7 +25,7 @@ Materials
 
 {{% resource_link a377bbf1-8842-eeb1-1d73-49372e15705f "Game board (JPG - 6.2MB)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link aa18516a-d49b-984d-10b3-e18668586556 "Game cards (PDF - 1.2MB)" %}}
+{{% resource_link aa18516a-d49b-984d-10b3-e18668586556 "Game cards (PDF - 1.2MB)" %}}
 
 Writeup
 -------

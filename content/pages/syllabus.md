@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: ''
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -331,7 +332,7 @@ Final Project
 Course Policies
 ---------------
 
-You are expected to produce your own original work for each assignment. For group projects you are expected to contribute to the team's effort in valuable ways. Raise any concerns about team members on group projects to me privately as soon as possible. All students will be held to the standards of ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[MIT's Academic Integrity Handbook (PDF)](http://web.mit.edu/academicintegrity/handbook/handbook.pdf).
+You are expected to produce your own original work for each assignment. For group projects you are expected to contribute to the team's effort in valuable ways. Raise any concerns about team members on group projects to me privately as soon as possible. All students will be held to the standards of [MIT's Academic Integrity Handbook (PDF)](http://web.mit.edu/academicintegrity/handbook/handbook.pdf).
 
 ### Plagiarism
 

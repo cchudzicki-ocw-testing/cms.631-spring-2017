@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: 'This page describes the deliverables for each homework assignment, the
+  five sketch projects, and the final project, along with a few examples of student
+  work. '
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

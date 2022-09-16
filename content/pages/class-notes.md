@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page presents the agenda for each class session, and lecture notes
+  used for some class sessions.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Class Notes
